@@ -5,7 +5,7 @@ export const { GET } = await OGImageRoute({
 	pages: {
 		default: {
 			title: 'StartPage',
-			description: 'Hub de Produtividade de Eric Freitas',
+			description: 'Productivity Hub & Developer Tools',
 		},
 	},
 	getImageOptions: (_, page) => ({
